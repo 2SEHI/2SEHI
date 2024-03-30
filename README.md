@@ -1,4 +1,4 @@
-### Hi there 👋2SEHI
+### Hi there 👋2SEHI!
 ![2SEHI's github stats](https://github-readme-stats.vercel.app/api?username=2sehi&show_icons=true&theme=vue)
 
 
